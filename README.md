@@ -2,7 +2,7 @@
 
 *This mod is currently in early development.*
 
-## Credits / Features
+## Features
 
 - Adds nuclear power generation to the game.
 - Nuclear reactors produce heat, which generates stress (using the Create mod).
